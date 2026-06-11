@@ -1,5 +1,4 @@
 ### Eaii! Eu sou o João 😁
-**Analista de dados de dia, dev em construção.**
 
 ##
 

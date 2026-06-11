@@ -1,8 +1,6 @@
 ### Eaii! Eu sou o João 😁
 
-##
-
-### 📊 Meu GitHub em números
+#### 📊 Meu GitHub em números
 ![GitHub stats do João](https://github-readme-stats.vercel.app/api?username=joaovitsnts&show_icons=true&include_all_commits=true&locale=pt-br&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitsnts&layout=compact&locale=pt-br&theme=tokyonight&hide_border=true)
 <div align="left"><br>

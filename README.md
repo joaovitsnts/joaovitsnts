@@ -12,8 +12,3 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
 </div>
-
-##
-
-### 📈 Atividade recente
-![Gráfico de atividade do João](https://github-readme-activity-graph.vercel.app/graph?username=joaovitsnts&custom_title=Minha%20atividade%20no%20GitHub&theme=tokyo-night&area=true&hide_border=true)

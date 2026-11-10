@@ -9,7 +9,9 @@ Atualmente cursando **Tecnólogo em Ciência de Dados** na Universidade La Salle
 ## 🛠️ Stack
 
 **Dados:** Python · pandas · SQL · PostgreSQL · Microsoft Fabric · Jupyter
+
 **Desenvolvimento:** FastAPI · React · JavaScript · HTML · CSS
+
 **Ferramentas:** Git · SAP · Excel/VBA
 
 ## 📂 Projetos

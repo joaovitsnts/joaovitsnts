@@ -18,8 +18,8 @@ Atualmente cursando **Tecnólogo em Ciência de Dados** na Universidade La Salle
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| [analise-spotify-2023](https://github.com/joaovitsnts/analise-spotify-2023) | O que as músicas mais ouvidas do Spotify em 2023 têm em comum: tempo de lançamento, artistas e BPM | Python, pandas, Seaborn |
 | [web-scraping](https://github.com/joaovitsnts/web-scraping) | Scrapers que coletam dados de produtos e geram relatórios em Excel | Python, Selenium, pandas |
-| [data-analysis](https://github.com/joaovitsnts/data-analysis) | Análise exploratória das músicas mais tocadas no Spotify em 2023 | Python, pandas, Seaborn |
 
 🚧 **Em construção:** um gerador de notas de serviço web, com backend em FastAPI.
 
